@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-03-16 12:38:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Bogo 3.2.1\n"
+"Language: en_US\n"
+"Project-Id-Version: WordPress 5.1.1\n"
+
+msgctxt "blogname"
+msgid "blogname"
+msgstr "Atoll Holding"
+
+msgctxt "blogdescription"
+msgid "blogdescription"
+msgstr "Atoll Holding Group of Companies"
+
+msgctxt "category"
+msgid "category:1"
+msgstr "No category"
+
+msgctxt "category"
+msgid "category:2"
+msgstr "General"
+
+msgctxt "category"
+msgid "category:16"
+msgstr "News"
+
+msgctxt "category"
+msgid "category:20"
+msgstr "Official announcements"
+
+msgctxt "category"
+msgid "category:19"
+msgstr "Services"
+
+msgctxt "category"
+msgid "category:3"
+msgstr "Post Formats"
+
+msgctxt "category"
+msgid "category:17"
+msgstr "Social projects"
+
+msgctxt "category"
+msgid "category:14"
+msgstr "Text slider"
+
+msgctxt "category"
+msgid "category:4"
+msgstr "Uncategorized"
+
+msgctxt "category"
+msgid "category:18"
+msgstr "Our valuesі"
+
+msgctxt "post_tag"
+msgid "post_tag:5"
+msgstr "Comments"
+
+msgctxt "post_tag"
+msgid "post_tag:6"
+msgstr "format"
+
+msgctxt "post_tag"
+msgid "post_tag:7"
+msgstr "gallery"
+
+msgctxt "post_tag"
+msgid "post_tag:8"
+msgstr "News"
+
+msgctxt "nav_menu"
+msgid "nav_menu:12"
+msgstr "footermenu"
+
+msgctxt "nav_menu"
+msgid "nav_menu:15"
+msgstr "mainmenu"

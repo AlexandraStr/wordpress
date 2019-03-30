@@ -1,0 +1,10 @@
+[26-Feb-2019 09:42:50 UTC] [Loco.error] "Empty PO file" in lib/compiled/gettext.php:10
+[26-Feb-2019 09:43:01 UTC] [Loco.warning] "3 files over 100 KB have been skipped. (Largest is 191.2 KB). Check all strings are present before saving." in src/ajax/SyncController.php:66
+[26-Feb-2019 10:07:33 UTC] [Loco.warning] "3 files over 100 KB have been skipped. (Largest is 191.2 KB). Check all strings are present before saving." in src/ajax/SyncController.php:66
+[15-Mar-2019 17:29:28 UTC] [Loco.error] "Translation set not known in Photo Gallery" in src/admin/bundle/BaseController.php:69
+[15-Mar-2019 18:02:42 UTC] [Loco.error] "Translation set not known in Photo Gallery" in src/admin/bundle/BaseController.php:69
+[15-Mar-2019 18:03:53 UTC] [Loco.error] "Translation set not known in Photo Gallery" in src/admin/bundle/BaseController.php:69
+[15-Mar-2019 18:04:41 UTC] [Loco.error] "Translation set not known in Photo Gallery" in src/admin/bundle/BaseController.php:69
+[15-Mar-2019 18:05:37 UTC] [Loco.error] "Translation set not known in Photo Gallery" in src/admin/bundle/BaseController.php:69
+[15-Mar-2019 18:06:12 UTC] [Loco.error] "Translation set not known in Photo Gallery" in src/admin/bundle/BaseController.php:69
+[28-Mar-2019 08:22:19 UTC] Помилка БД WordPress Lost connection to MySQL server during query для запиту SELECT autoload FROM wp_options WHERE option_name = '_site_transient_update_plugins' спричинена Plugin_Upgrader->bulk_upgrade, wp_clean_plugins_cache, delete_site_transient, delete_site_option, delete_network_option, delete_option
